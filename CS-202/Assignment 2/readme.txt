@@ -1,6 +1,6 @@
 How To Run:
 1.  jar -cvf resource.jar resource
-2.  javac -cp resource.jar: Assignment2.javac
+2.  javac -cp resource.jar: Assignment2.java
 3.  java Assignment2
 
 Logic:
